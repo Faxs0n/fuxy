@@ -1,5 +1,5 @@
 # fuxy
-This command-line utility simplifies development environment setup by generating customizable lists of targets and vulnerabilities.
+FUXY v2.0 is a command-line and GUI-based tool designed for generating password lists using user input data.
 
 How to Use the FUXY Tool
 
